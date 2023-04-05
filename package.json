@@ -1,0 +1,21 @@
+{
+  "name": "neon-dark",
+  "displayName": "Neon Dark",
+  "description": "Theme with dark neon colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Dark-color-theme.json"
+      }
+    ]
+  }
+}
